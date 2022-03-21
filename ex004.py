@@ -1,3 +1,4 @@
+#Instrução: Mostre o antecessor e o sucessor do número inserido
 x = int(input('Digite um número inteiro: '))
 y=x-1
 z=x+1

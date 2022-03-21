@@ -1,5 +1,4 @@
-import operator
-
+#Instrução: Faça vários prints mostrando informações sobre o caráctere inserido
 koto = input('Digite alguma coisa: ')
 print('O tipo primitivo desse valor é ',type(koto))
 print('Só tem espaços? ',koto.isspace())
